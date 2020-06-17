@@ -1,0 +1,2 @@
+assignment0/assignment0
+-DCATKIN_DEVEL_PREFIX=/home/lorne/ros_wkspace_asgnX/devel -DCMAKE_INSTALL_PREFIX=/home/lorne/ros_wkspace_asgnX/install -G Unix Makefiles

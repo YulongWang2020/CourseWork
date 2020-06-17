@@ -1,0 +1,8 @@
+prefix=/home/lorne/ros_wkspace_asgnX/devel
+
+Name: assignment0
+Description: Description of assignment0
+Version: 0.0.0
+Cflags: -I/home/lorne/ros_wkspace_asgnX/devel/include
+Libs: -L/home/lorne/ros_wkspace_asgnX/devel/lib 
+Requires: message_runtime

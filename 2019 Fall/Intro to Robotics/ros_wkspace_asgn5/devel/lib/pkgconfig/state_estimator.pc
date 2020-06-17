@@ -1,0 +1,8 @@
+prefix=/home/lorne/ros_wkspace_asgn5/devel
+
+Name: state_estimator
+Description: Description of state_estimator
+Version: 0.0.0
+Cflags: -I/home/lorne/ros_wkspace_asgn5/devel/include
+Libs: -L/home/lorne/ros_wkspace_asgn5/devel/lib 
+Requires: rospy std_msgs message_runtime

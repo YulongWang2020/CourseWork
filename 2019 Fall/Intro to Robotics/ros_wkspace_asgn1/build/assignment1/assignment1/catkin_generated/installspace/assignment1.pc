@@ -1,0 +1,8 @@
+prefix=/home/lorne/ros_wkspace_asgn1/install
+
+Name: assignment1
+Description: Description of assignment1
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/lorne/ros_wkspace_asgn1/install/lib 
+Requires: 
